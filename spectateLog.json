@@ -1,0 +1,1473 @@
+Listening at http://127.0.0.1:323232
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468310
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3157,
+		"clock_time": 2932,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468311
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3158,
+		"clock_time": 2933,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3157,
+			"clock_time": 2932
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468312
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3159,
+		"clock_time": 2934,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3158,
+			"clock_time": 2933
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468313
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3160,
+		"clock_time": 2935,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3159,
+			"clock_time": 2934
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468314
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3161,
+		"clock_time": 2936,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3160,
+			"clock_time": 2935
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468315
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3162,
+		"clock_time": 2937,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3161,
+			"clock_time": 2936
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468316
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3163,
+		"clock_time": 2938,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3162,
+			"clock_time": 2937
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468317
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3164,
+		"clock_time": 2939,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3163,
+			"clock_time": 2938
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468318
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3165,
+		"clock_time": 2940,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3164,
+			"clock_time": 2939
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468319
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3166,
+		"clock_time": 2941,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3165,
+			"clock_time": 2940
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468320
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3167,
+		"clock_time": 2942,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3166,
+			"clock_time": 2941
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468321
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3168,
+		"clock_time": 2943,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3167,
+			"clock_time": 2942
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468322
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3169,
+		"clock_time": 2944,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3168,
+			"clock_time": 2943
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468323
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3170,
+		"clock_time": 2945,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3169,
+			"clock_time": 2944
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468324
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3171,
+		"clock_time": 2946,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3170,
+			"clock_time": 2945
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468325
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3172,
+		"clock_time": 2947,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3171,
+			"clock_time": 2946
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468326
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3173,
+		"clock_time": 2948,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3172,
+			"clock_time": 2947
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468327
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3174,
+		"clock_time": 2949,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3173,
+			"clock_time": 2948
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468328
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3175,
+		"clock_time": 2950,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3174,
+			"clock_time": 2949
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468329
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3176,
+		"clock_time": 2951,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3175,
+			"clock_time": 2950
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468330
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3177,
+		"clock_time": 2952,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3176,
+			"clock_time": 2951
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468331
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3178,
+		"clock_time": 2953,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3177,
+			"clock_time": 2952
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468332
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3179,
+		"clock_time": 2954,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3178,
+			"clock_time": 2953
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468333
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3180,
+		"clock_time": 2954,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3179
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468333
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3180,
+		"clock_time": 2955,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"clock_time": 2954
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468333
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3181,
+		"clock_time": 2956,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3180,
+			"clock_time": 2955
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468335
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3182,
+		"clock_time": 2957,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3181,
+			"clock_time": 2956
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468336
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3183,
+		"clock_time": 2958,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3182,
+			"clock_time": 2957
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468337
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3184,
+		"clock_time": 2959,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3183,
+			"clock_time": 2958
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468338
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3185,
+		"clock_time": 2960,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3184,
+			"clock_time": 2959
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468339
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3186,
+		"clock_time": 2961,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3185,
+			"clock_time": 2960
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468340
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3187,
+		"clock_time": 2962,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3186,
+			"clock_time": 2961
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468341
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3188,
+		"clock_time": 2963,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3187,
+			"clock_time": 2962
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468341
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3189,
+		"clock_time": 2964,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3188,
+			"clock_time": 2963
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468343
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3190,
+		"clock_time": 2965,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3189,
+			"clock_time": 2964
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468343
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3191,
+		"clock_time": 2966,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3190,
+			"clock_time": 2965
+		}
+	}
+}
+undefined
+{
+	"provider": {
+		"name": "Dota 2",
+		"appid": 570,
+		"version": 43,
+		"timestamp": 1456468344
+	},
+	"map": {
+		"name": "dota",
+		"matchid": 2178926809,
+		"game_time": 3192,
+		"clock_time": 2967,
+		"daytime": true,
+		"nightstalker_night": false,
+		"game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+		"win_team": "none",
+		"customgamename": ""
+	},
+	"player": {
+		"steamid": "76561197993617025",
+		"name": "ShadowFrench's Name Spoofer",
+		"activity": "playing"
+	},
+	"hero": {
+
+	},
+	"abilities": {
+
+	},
+	"items": {
+
+	},
+	"previously": {
+		"map": {
+			"game_time": 3191,
+			"clock_time": 2966
+		}
+	}
+}
